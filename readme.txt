@@ -10,7 +10,7 @@ Progress
 15.10: Can now successfully trigger pipelines and builds
 
 yo
-edit with "success" commit message
+
 
 
 
